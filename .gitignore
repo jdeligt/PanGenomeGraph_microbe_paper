@@ -4,6 +4,10 @@
 *.aux
 *.out
 
+# PDFs (for now) #
+######################
+*.pdf
+
 # OS generated files #
 ######################
 .DS_Store
