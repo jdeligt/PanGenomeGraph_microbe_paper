@@ -9,3 +9,8 @@ http://www.ctan.org/
 
 
 ![Figure 1](Figure1.pdf)
+<object data="Figure1.pdf" type="application/pdf" width="700px" height="500px">
+    <embed src="Figure1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Figure1.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
