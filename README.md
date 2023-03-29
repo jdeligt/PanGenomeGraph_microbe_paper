@@ -6,3 +6,6 @@ Build on the frontiers template
 
 Requires: datetime, fmtcount, etoolbox, fcprefix
 http://www.ctan.org/
+
+
+![Figure 1](Figure1.pdf)
